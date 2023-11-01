@@ -130,7 +130,10 @@ p {
     margin: 0 auto;
 }
 
+<<<<<<< Updated upstream:HTML-OG-CSS/25.09/style.css
 /* Styling for navigasjon i footer */
+=======
+>>>>>>> Stashed changes:HTML-OG-CSS/19.09/style.css
 footer nav ul {
     list-style: none;
     padding: 0;
@@ -138,25 +141,45 @@ footer nav ul {
     text-align: center;
 }
 
+<<<<<<< Updated upstream:HTML-OG-CSS/25.09/style.css
 /* Styling for lenker innenfor footer-navigasjon */
 footer nav ul li a {
     padding: 0.5rem;
 }
 
 /* Styling for sosiale ikoner med id'en #social-icons */
+=======
+footer nav ul li a {
+    padding: 0.5rem;
+
+}
+
+>>>>>>> Stashed changes:HTML-OG-CSS/19.09/style.css
 #social-icons {
     padding: 0;
     margin: 1rem 0;
     text-align: center;
 }
 
+<<<<<<< Updated upstream:HTML-OG-CSS/25.09/style.css
 /* Styling for hvert sosialt ikon innenfor #social-icons */
+=======
+
+>>>>>>> Stashed changes:HTML-OG-CSS/19.09/style.css
 #social-icons li {
     display: inline-block;
     background-color: #000;
     color: #fff;
     width: 60px;
     height: 60px;
+<<<<<<< Updated upstream:HTML-OG-CSS/25.09/style.css
     padding: 1rem;
     border-radius: 50%;
 }
+=======
+    padding: 1rem ;
+    border-radius: 50%;
+
+}
+
+>>>>>>> Stashed changes:HTML-OG-CSS/19.09/style.css
